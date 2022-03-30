@@ -10,7 +10,7 @@
 
 #### 💻 In which I am ok
 - Python
-- JavScript
+- JavaScript
 - SQL
 
 
