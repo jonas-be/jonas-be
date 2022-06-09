@@ -11,12 +11,11 @@
 #### 💪 I'm good at 
 - Java
 
-#### 📖 I'm curently learning
+#### 📖 I'm currently learning
 - Kotlin
+- Web Technologies
 
 #### 💻 In which I am ok
-- Python
-- JavaScript
 - SQL
 
 ##
