@@ -4,19 +4,13 @@
 
 - [WebSite](https://jonasbe.de/)
 
-##
-
-### Languages
-
-#### 💪 I'm good at 
+### Languages and Technologies I'm interested in
 - Java
 - Kotlin
-
-#### 📖 I'm currently learning
 - Web Technologies
+  - JavaScript
   - React
   - TailwindCss
-
 
 ### 📫 How to reach me ...
 - Discord: Jonas#3038   
