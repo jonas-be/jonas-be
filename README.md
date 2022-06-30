@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jonasbe5
+# 👋 Hi, I’m @jonas-be
 
 ### Links
 
@@ -10,15 +10,13 @@
 
 #### 💪 I'm good at 
 - Java
+- Kotlin
 
 #### 📖 I'm currently learning
-- Kotlin
 - Web Technologies
+  - React
+  - TailwindCss
 
-#### 💻 In which I am ok
-- SQL
-
-##
 
 ### 📫 How to reach me ...
 - Discord: Jonas#3038   
