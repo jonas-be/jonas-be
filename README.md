@@ -4,6 +4,9 @@
 
 - [WebSite](https://jonasbe.de/)
 
+### My top languages (on Github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-be)](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-be)
+
 ### Languages and Technologies I'm interested in
 - Java
 - Kotlin
