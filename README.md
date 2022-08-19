@@ -12,6 +12,7 @@
 - Kotlin
 - Web Technologies
   - JavaScript
+  - TypeScript
   - React
   - TailwindCss
 
