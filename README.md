@@ -19,6 +19,7 @@
 
 ### Currently learning
 - Kubernetes
+- Go
 
 ### 📫 How to reach me ...
 - Discord: Jonas#3038   
