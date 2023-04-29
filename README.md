@@ -1,25 +1,27 @@
 # 👋 Hi, I’m @jonas-be
 
-### Links
-
 - [WebSite](https://jonasbe.de/)
 
 ### My top languages (on Github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-be&layout=compact&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-be)
 
 ### Languages and Technologies
-- Java
+- Go
 - Kotlin
+- Java
 - Web Technologies
-  - JavaScript
   - TypeScript
-  - React
+  - JavaScript
+  - React/NextJS
   - TailwindCss
 - Docker
+- Kubernetes
 
 ### Currently learning
 - Kubernetes
-- Go
+  - Kubebuilder
+  - Cluster API
+- Proxmox
 
 ### 📫 How to reach me ...
 - Discord: Jonas#3038   
