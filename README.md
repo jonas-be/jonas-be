@@ -2,7 +2,7 @@
 
 - [WebSite](https://jonasbe.de/)
 
-### My top languages (on Github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonas-be&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-be&layout=compact&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-be)
 
 ### Languages and Technologies
@@ -10,8 +10,7 @@
 - Kotlin
 - Java
 - Web Technologies
-  - TypeScript
-  - JavaScript
+  - JavaScript/TypeScript
   - React/NextJS
   - TailwindCss
 - Docker
@@ -19,8 +18,6 @@
 
 ### Currently learning
 - Kubernetes
-  - Kubebuilder
-  - Cluster API
 - Proxmox
 
 ### 📫 How to reach me ...
