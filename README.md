@@ -17,11 +17,10 @@
 - Kubernetes
 
 ### Currently learning
-- Kubernetes
-- Proxmox
+- more about Kubernetes
 
 ### 📫 How to reach me ...
-- Discord: Jonas#3038   
+- Discord: jonas_be 
 
 <!---
 jonas-be/jonas-be is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
