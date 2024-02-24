@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hi, I’m @jonas-be</h1>
-<h3 align="center">A cloud tech interested Developer in training</h3>
+<h3 align="center">Cloud Tech Enthusiast & Developer in Training</h3>
 
+<p align="left">Building skills and exploring the exciting world of cloud technologies, especially Kubernetes.</p>
 
-- :desktop_computer: [WebSite](https://jonasbe.de/)
-  
-- :seedling: I’m currently learning more about cloud computing, especially Kubernetes
-  
-- :mailbox: How to reach me: Discord jonas_be
+- :computer: [Website](https://jonasbe.de/)
+- :seedling: Learning more about: Cloud Computing (Kubernetes)
+- :mailbox: Reach me: Discord jonas_be
 
 <br/>
 
