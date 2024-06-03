@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @jonas-be</h1>
-<h3 align="center">Cloud Tech Enthusiast & Developer in Training</h3>
+<h3 align="center">Cloud Tech Enthusiast & Developer</h3>
 
 <p align="left">Building skills and exploring the exciting world of cloud technologies, especially Kubernetes.</p>
 
