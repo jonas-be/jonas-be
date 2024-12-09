@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @jonas-be</h1>
-<h3 align="center">Cloud Tech Enthusiast & Developer</h3>
+<h3 align="center">DevOps Cloud Engineer</h3>
 
-<p align="left">Building skills and exploring the exciting world of cloud technologies, especially Kubernetes.</p>
+<p align="center">Interested in cloud computing, AI, robotics, and new technologies.</p>
 
 - :computer: [Website](https://jonasbe.de/)
 - :seedling: Learning more about: Cloud Computing (Kubernetes)
